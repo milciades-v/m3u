@@ -2137,6 +2137,9 @@ http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2Mpuoz.png" group-title="DOMINICAN REPUBLIC",HM TV 33
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2Mpuoz.png" group-title="DOMINICAN REPUBLIC",HM TV 33
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZmYKQxN.png" group-title="DOMINICAN REPUBLIC",Info TDN
 http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
 
