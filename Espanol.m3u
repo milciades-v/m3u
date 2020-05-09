@@ -1,0 +1,442 @@
+#EXTM3U
+#EXTINF:0,UES TV
+#EXTVLCOPT:network-caching=1000
+http://edge1.cl.grupoz.cl/uestv/live/playlist_DVR.m3u8?checkedby:iptvcat.com
+#EXTINF:0,UMAGTV Punta Arenas 2
+#EXTVLCOPT:network-caching=1000
+http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w638282256.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Universidad Autonoma Temuco
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl.dps.live/uatv/uatv.smil/uatv/livestream1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Antofagasta Tv Antofagasta
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl.dps.live/atv/atv.smil/atv/livestream1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ED Enfoque Digital Atacama
+#EXTVLCOPT:network-caching=1000
+http://streaminglivehd.com:1935/8010/8010/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Puerta Norte
+#EXTVLCOPT:network-caching=1000
+https://593b04c4c5670.streamlock.net/8042/8042/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,INTERRADIOTV
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net:443/interradiofrutillar/interradiofrutillar/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RadioZeta
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Tele13 Radio Tv
+#EXTVLCOPT:network-caching=1000
+https://t13-radio-live.cdn.nedmedia.io/index_3.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CMC
+#EXTVLCOPT:network-caching=1000
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Miami Tv Colombia
+#EXTVLCOPT:network-caching=1000
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w152373056_b2592000.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Miami Tv Estados Unidos
+#EXTVLCOPT:network-caching=1000
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_b2592000.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Miami Tv México
+#EXTVLCOPT:network-caching=1000
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RTPA
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Cuatro Tv
+#EXTVLCOPT:network-caching=1000
+http://linear02-i.akamaihd.net/hls/live/837811/cuatro/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sercano TV
+#EXTVLCOPT:network-caching=1000
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telecinco
+#EXTVLCOPT:network-caching=1000
+http://linear01-i.akamaihd.net/hls/live/837810/telecinco/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telecinco
+#EXTVLCOPT:network-caching=1000
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telenord Canal 14
+#EXTVLCOPT:network-caching=1000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12&checkedby:iptvcat.com
+#EXTINF:0,Ten
+#EXTVLCOPT:network-caching=1000
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,4 Misiones
+#EXTVLCOPT:network-caching=1000
+https://cdn2.zencast.tv:30443/misiones4/live/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Bolivia TV
+#EXTVLCOPT:network-caching=1000
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Guapiles TV
+#EXTVLCOPT:network-caching=1000
+http://k4.usastreams.com/guapilestv/guapilestv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RPC
+#EXTVLCOPT:network-caching=1000
+http://174.138.118.252/live/canal13stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Suram TV
+#EXTVLCOPT:network-caching=1000
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1810740705.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Suram TV
+#EXTVLCOPT:network-caching=1000
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telecaribe
+#EXTVLCOPT:network-caching=1000
+http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telemetro
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8?checkedby:iptvcat.com
+#EXTINF:0,4 Río CUARTO
+#EXTVLCOPT:network-caching=1000
+https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/chunklist_w1835207009.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telecreativa Lanús
+#EXTVLCOPT:network-caching=1000
+https://cdn2.zencast.tv:30443/telecreativa/live/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Canal Mar del Plata
+#EXTVLCOPT:network-caching=1000
+https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_480p/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NET TV
+#EXTVLCOPT:network-caching=1000
+https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,13 Max HD
+#EXTVLCOPT:network-caching=1000
+http://coninfo.net:1935/13maxhd/live_720p/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Canal 10 Mar del Plata
+#EXTVLCOPT:network-caching=1000
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Multivisión Federal Salta HD
+#EXTVLCOPT:network-caching=1000
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1202004290.m3u8?checkedby:iptvcat.com
+#EXTINF:0,AKC Tv
+#EXTVLCOPT:network-caching=1000
+https://video.blivenyc.com/broadcast/prod/2061/22/file-429k.m3u8?checkedby:iptvcat.com
+#EXTINF:0,FTV Midnight Secret
+#EXTVLCOPT:network-caching=1000
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Abu Dhabi Sports
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?checkedby:iptvcat.com
+#EXTINF:0,US SPORT Tennis Plus 1
+#EXTVLCOPT:network-caching=1000
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TAL TAL PELICULAS
+#EXTVLCOPT:network-caching=1000
+https://usb.bozztv.com/ssh101/taltaltv/taltaltv/playlist.m3u8?PlaylistM3UCL&checkedby:iptvcat.com
+#EXTINF:0,Mi TV Televisión Clásica
+#EXTVLCOPT:network-caching=1000
+http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL&checkedby:iptvcat.com
+#EXTINF:0,Orbit TV
+#EXTVLCOPT:network-caching=1000
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL&checkedby:iptvcat.com
+#EXTINF:0,Pantalla Clasica
+#EXTVLCOPT:network-caching=1000
+https://usb.bozztv.com/ssh101/pantallaclasica02/pantallaclasica02/playlist.m3u8?PlaylistM3UCL&checkedby:iptvcat.com
+#EXTINF:0,Zee Mundo Tv
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MBC 5
+#EXTVLCOPT:network-caching=1000
+https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MBC 4
+#EXTVLCOPT:network-caching=1000
+https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MBC Bollywood
+#EXTVLCOPT:network-caching=1000
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MBC Max HD
+#EXTVLCOPT:network-caching=1000
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CBS46 (WGCL-TV)
+#EXTVLCOPT:network-caching=1000
+https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CBSN Bay Area
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CBSN Minnesota
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CBSN Philly
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sky News
+#EXTVLCOPT:network-caching=1000
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true&checkedby:iptvcat.com
+#EXTINF:0,MTA 1 English
+#EXTVLCOPT:network-caching=1000
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,BBC News
+#EXTVLCOPT:network-caching=1000
+http://51.52.156.22:8888/http/004?checkedby:iptvcat.com
+#EXTINF:0,MBC 2 HD
+#EXTVLCOPT:network-caching=1000
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MBC 3
+#EXTVLCOPT:network-caching=1000
+https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CR | TV Sur Canal 14
+#EXTVLCOPT:network-caching=1000
+https://livestreamcdn.net:444/TVSURCANAL14/TVSURCANAL14/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Euronews English
+#EXTVLCOPT:network-caching=1000
+http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CBC News Network
+#EXTVLCOPT:network-caching=1000
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CTV
+#EXTVLCOPT:network-caching=1000
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Acento TV
+#EXTVLCOPT:network-caching=1000
+http://acentotv01.streamprolive.com/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Canal 4 RD
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Canal Amé 47
+#EXTVLCOPT:network-caching=1000
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Canal del Sol 65
+#EXTVLCOPT:network-caching=1000
+http://canaldelsol01.streamprolive.com/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Carivision
+#EXTVLCOPT:network-caching=1000
+http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Cinevision Canal 19
+#EXTVLCOPT:network-caching=1000
+http://cinevision01.streamprolive.com/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Color Vision 9
+#EXTVLCOPT:network-caching=1000
+https://ss5.domint.net:3018/cvh_str/colorvisionhd/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Comunion TV
+#EXTVLCOPT:network-caching=1000
+http://50.30.37.36:1935/live/stream/chunklist_w1329394356.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Comunion TV
+#EXTVLCOPT:network-caching=1000
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ESTV
+#EXTVLCOPT:network-caching=1000
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Faro Vision
+#EXTVLCOPT:network-caching=1000
+http://184.173.181.2:1935/8060/8060/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Fuego TV - Fuego TV (New!)
+#EXTVLCOPT:network-caching=1000
+http://184.173.181.2:1935/8020/8020/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Hermanas Mirabal Canal 33 Salcedo
+#EXTVLCOPT:network-caching=1000
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Microvision 10
+#EXTVLCOPT:network-caching=1000
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ONDA TV CANAL 10
+#EXTVLCOPT:network-caching=1000
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Ready TV
+#EXTVLCOPT:network-caching=1000
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Romana TV Canal 42
+#EXTVLCOPT:network-caching=1000
+http://tv.romanatv42.com/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Super TV 55 Santiago
+#EXTVLCOPT:network-caching=1000
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TELECENTRO 13
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TV Montaña Canal 10
+#EXTVLCOPT:network-caching=1000
+http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TV Plata Canal 3
+#EXTVLCOPT:network-caching=1000
+https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TeleBendicion
+#EXTVLCOPT:network-caching=1000
+http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telever Canal 12
+#EXTVLCOPT:network-caching=1000
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Teleceiba Canal 7
+#EXTVLCOPT:network-caching=1000
+http://190.11.224.14:8134/liveevent.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Teleceiba Canal 7
+#EXTVLCOPT:network-caching=1000
+http://bit.ly/2NLhkKX?checkedby:iptvcat.com
+#EXTINF:0,TV Plata (RD)
+#EXTVLCOPT:network-caching=1000
+https://ss6.domint.net:3104/tvp_str/tvplata/chunklist_w1651029128.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TELENORD 8
+#EXTVLCOPT:network-caching=1000
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TELENORD 10
+#EXTVLCOPT:network-caching=1000
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TeleCibao (RD)
+#EXTVLCOPT:network-caching=1000
+https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telecentro (RD)
+#EXTVLCOPT:network-caching=1000
+https://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,SuperTV55 (RD)
+#EXTVLCOPT:network-caching=1000
+http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Super Canal 33 (RD)
+#EXTVLCOPT:network-caching=1000
+http://190.122.96.186:8888/http/005?checkedby:iptvcat.com
+#EXTINF:0,SiTV (RD)
+#EXTVLCOPT:network-caching=1000
+http://190.122.104.221/Player/sitv.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Shirdi Live
+#EXTVLCOPT:network-caching=1000
+https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525&checkedby:iptvcat.com
+#EXTINF:0,Sabor a merengue (RD)
+#EXTVLCOPT:network-caching=1000
+http://ss6.domint.net:2004/sam_str/sabor-video/chunklist_w533683600.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RTV Noordoost Friesland
+#EXTVLCOPT:network-caching=1000
+http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8?iptvm3uplaylists.m3u8&checkedby:iptvcat.com
+#EXTINF:0,RNN (RD)
+#EXTVLCOPT:network-caching=1000
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8?checkedby:iptvcat.com
+#EXTINF:0,PTV Cordoba
+#EXTVLCOPT:network-caching=1000
+http://149.91.98.146:1935/cordoba/stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Mision ELTV (RD)
+#EXTVLCOPT:network-caching=1000
+https://5790d294af2dc.streamlock.net:443/8286/8286/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Omroep Vlaardingen
+#EXTVLCOPT:network-caching=1000
+http://58e4d59f4ba2c.streamlock.net:1935/visualradio/visualradio/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,PH (RD)
+#EXTVLCOPT:network-caching=1000
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Microvision (RD)
+#EXTVLCOPT:network-caching=1000
+http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MetroVision (RD)
+#EXTVLCOPT:network-caching=1000
+http://metrovision01.streamprolive.com/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,La Voz del Trópico (RD)
+#EXTVLCOPT:network-caching=1000
+http://ss8.domint.net:2084/vttv_str/tropicotv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Hilando Fino (RD)
+#EXTVLCOPT:network-caching=1000
+https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/chunklist_w1079087093_b2628000.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Guardianes de la Galaxia : SRREGIO.NET
+#EXTVLCOPT:network-caching=1000
+https://goo.gl/sFaEVq?checkedby:iptvcat.com
+#EXTINF:0,GDM Estudio TV (RD)
+#EXTVLCOPT:network-caching=1000
+https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Faro Visión (RD)
+#EXTVLCOPT:network-caching=1000
+http://184.173.181.2:1935/8060/8060/chunklist_w41087696.m3u8?checkedby:iptvcat.com
+#EXTINF:0,El Puerto TV (RD)
+#EXTVLCOPT:network-caching=1000
+https://5983a4e15f07f.streamlock.net:8443/puertotv/puertotv/chunklist_w1822137763.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CotubanamaTV (RD)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.hostlagarto.com:8081/cotubanamatv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CieloTV (RD)
+#EXTVLCOPT:network-caching=1000
+https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/chunklist_w1590943378_b850000_slen.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Color Vision (RD)
+#EXTVLCOPT:network-caching=1000
+https://ss5.domint.net:3018/cvh_str/colorvisionhd/chunklist_w1556269922.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Comunión TV (RD)
+#EXTVLCOPT:network-caching=1000
+http://50.30.37.36:1935/live/stream/chunklist_w769879495.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Comunión TV (RD)
+#EXTVLCOPT:network-caching=1000
+http://50.30.37.36:1935/live/stream/chunklist_w1755544715.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Carivision (RD)
+#EXTVLCOPT:network-caching=1000
+http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Canal 25 (RD)
+#EXTVLCOPT:network-caching=1000
+http://190.122.96.188:8888/http/004?checkedby:iptvcat.com
+#EXTINF:0,Boreal (RD)
+#EXTVLCOPT:network-caching=1000
+https://5b38ce71f1f00.streamlock.net/8180/8180/chunklist_w557576109.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Bellavision (RD)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.hostlagarto.com:8081/Bellavision8hd/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0,BajoTechoTV (RD)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.hostlagarto.com:8081/bajotechotv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Antena21 (RD)
+#EXTVLCOPT:network-caching=1000
+http://190.122.96.188:8888/http/002?checkedby:iptvcat.com
+#EXTINF:0,(ONLINE) Radio Farda
+#EXTVLCOPT:network-caching=1000
+http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telecontacto 57 (RD)
+#EXTVLCOPT:network-caching=1000
+http://siglo21.dnsalias.com:8080/mylive/telecontacto57/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telefuturo (RD)
+#EXTVLCOPT:network-caching=1000
+http://190.122.96.186:8888/http/001?checkedby:iptvcat.com
+#EXTINF:0,Teleimpacto (RD)
+#EXTVLCOPT:network-caching=1000
+http://190.122.96.188:8888/http/013?checkedby:iptvcat.com
+#EXTINF:0,Telemicro (RD)
+#EXTVLCOPT:network-caching=1000
+https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telemilenio (RD)
+#EXTVLCOPT:network-caching=1000
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telenord
+#EXTVLCOPT:network-caching=1000
+http://www.coninfo.net:1935/previsoratv/live/chunklist_w1998857033.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telenord 10
+#EXTVLCOPT:network-caching=1000
+http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telenord 10 (RD)
+#EXTVLCOPT:network-caching=1000
+http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/chunklist_w579731506.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telenord 8
+#EXTVLCOPT:network-caching=1000
+http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telenord Canal 10
+#EXTVLCOPT:network-caching=1000
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telenord Canal 14
+#EXTVLCOPT:network-caching=1000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12&checkedby:iptvcat.com
+#EXTINF:0,Telenord Canal 8
+#EXTVLCOPT:network-caching=1000
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telesistema (RD)
+#EXTVLCOPT:network-caching=1000
+http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Teleunion (RD)
+#EXTVLCOPT:network-caching=1000
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2042982926.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Teleuniverso (RD)
+#EXTVLCOPT:network-caching=1000
+https://ss5.domint.net:3006/tu_str/universo/chunklist_w777182816.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Tvexitos (RD)
+#EXTVLCOPT:network-caching=1000
+http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Unserding
+#EXTVLCOPT:network-caching=1000
+http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8?iptvm3uplaylists.m3u8&checkedby:iptvcat.com
+#EXTINF:0,UrbancrisTV (RD)
+#EXTVLCOPT:network-caching=1000
+https://5790d294af2dc.streamlock.net/8228/8228/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Vega Teve (RD)
+#EXTVLCOPT:network-caching=1000
+https://ss6.domint.net:3012/tes_str/teleelsalvador/chunklist_w757952389.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Ventdelnord TV
+#EXTVLCOPT:network-caching=1000
+http://ventdelnord.tv:8080/hls/directe.m3u8?checkedby:iptvcat.com
+#EXTINF:0,WVIT 30 News (Hartford)
+#EXTVLCOPT:network-caching=1000
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ZTV (RD)
+#EXTVLCOPT:network-caching=1000
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Zol106 (RD)
+#EXTVLCOPT:network-caching=1000
+https://ss3.domint.net:3108/zol_str/vzol/chunklist_w1436990381.m3u8?checkedby:iptvcat.com
+#EXTINF:0,entelevision (RD)
+#EXTVLCOPT:network-caching=1000
+https://5d4a00b8a0738.streamlock.net/8068/8068/chunklist_w1724510059.m3u8?checkedby:iptvcat.com
+#EXTINF:0,telenord 8
+#EXTVLCOPT:network-caching=1000
+http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w588013183.m3u8?checkedby:iptvcat.com
